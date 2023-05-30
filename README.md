@@ -1,4 +1,4 @@
-### Prazer, meu nome é Luiz Henrique
+### Prazer, meu nome é Luiz
 
 <div align="center">
   <a href="https://github.com/LuizHenriqueMenezes">
