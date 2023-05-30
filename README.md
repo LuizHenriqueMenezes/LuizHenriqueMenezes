@@ -1,4 +1,4 @@
-### Prazer, meu nome é Luiz
+### Prazer, meu nome é Luiz Henrique
 
 <div align="center">
   <a href="https://github.com/LuizHenriqueMenezes">
@@ -9,7 +9,7 @@
 
 ### Formação:
 <li>🎓 Formado no Técnico de Informática na ETEC Adolpho Berezin</li>
-<li>📚 Cursando ADS na Fatec-PG</li>
+<li>📚 Cursando Analise e Desenvolvimento de Sistemas na Fatec-PG</li>
 
 ### Entre em contato:
 
