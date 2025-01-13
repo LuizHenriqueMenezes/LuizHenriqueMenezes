@@ -20,7 +20,7 @@
 
 ### Formação:
 <li>🎓 Formado no Técnico de Informática na ETEC Adolpho Berezin</li>
-<li>📚 Cursando Analise e Desenvolvimento de Sistemas na Fatec-PG</li>
+<li>🎓 Formado em Analise e Desenvolvimento de Sistemas na FATEC Praia Grande</li>
 
 ### Entre em contato:
 
